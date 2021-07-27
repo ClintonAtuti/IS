@@ -1,9 +1,10 @@
 
 <!DOCTYPE html>
 <html>
-    <head>
-        <link rel="stylesheet" type="text/css" href="footer.css">
-    </head>
+  <body>
+    <footer>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="footer.css">
 <div class="main"></div>
 <div class="footer">
   <div class="bubbles">
@@ -155,4 +156,6 @@
     </filter>
   </defs>
 </svg>
+    </footer>
+</body>
 </html>

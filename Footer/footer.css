@@ -40,10 +40,12 @@ body {
     grid-gap: 4rem;
     padding: 2rem;
     background: var(--footer-background);
+    width: auto;
   }
   body .footer .content a, body .footer .content p {
     color: #F5F7FA;
     text-decoration: none;
+    
   }
   body .footer .content b {
     color: white;

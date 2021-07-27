@@ -7,9 +7,15 @@
       <meta name="viewport" content="width=device-width, initial-scale=1">
     
     </head>
+	<body>
+		<header>
+		<link rel="stylesheet" type="text/css" href="header/styles.css">
+        <script src="header/header.js"></script>
 	<?php 
-	include "header/Header.php"
+	include ("header/Header.php")
 	?>
+	</header>
+	
     <div class="banner_image">
 		<div class="banner_content">
 			<h1>TOUCH THE LITTLE LIVES.<br/>
@@ -27,11 +33,6 @@
 		Reunit broken families and make them have an everlasting smile</p>
 		<div class="btn"><a href="about.html">Learn More</a></div>
 	</div>
-
-<?php
-
-
-?>
 	<div class="contactus" id="contactus">
 		<h1 class="title" style="color: white;">Contact Us</h1>
 		<div class="form_wrapper">
@@ -64,6 +65,11 @@
 			</div>
 		</div>
 	</div>
+	<footer>
+<link rel="stylesheet" type="text/css" href="footer/footer.css">
+<?php
+
+ include('Footer/footer.php') ?>
+ </footer>
 </body>
-<?php include('Footer/footer.html') ?>
 </html>
