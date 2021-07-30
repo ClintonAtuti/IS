@@ -163,20 +163,7 @@ h1.title{
 	transform: scale(1.1);
 }
 
-/* footer */
-.footer{
-	width: 100%;
-	text-align: center;
-	background: #444444;
-	padding: 20px 0;
-	height: 50%;
 
-}
-
-.footer a{
-	color: #fff;
-
-}
 
 @media (max-width: 720px){
 	.navbar{

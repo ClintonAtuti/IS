@@ -137,7 +137,7 @@
     <div class="bubble" style="--size:5.644537559177479rem; --distance:6.033381430511322rem; --position:50.64285821872009%; --time:3.653425292107757s; --delay:-2.7144816011731794s;"></div>
     <div class="bubble" style="--size:4.968734840228269rem; --distance:9.309417823839382rem; --position:71.89945278910459%; --time:3.545559798302238s; --delay:-3.8208846134990666s;"></div>
   </div>
-  <div class="content">
+  <div class="content" style="width:100%;">
     <div>
       <div><h6 class="text-uppercase font-weight-bold">Contact</h6></div>
       

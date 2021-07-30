@@ -10,7 +10,7 @@
 	<body>
 		<header>
 		<link rel="stylesheet" type="text/css" href="header/styles.css">
-        <script src="header/header.js"></script>
+        
 	<?php 
 	include ("header/Header.php")
 	?>

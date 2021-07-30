@@ -40,7 +40,7 @@ body {
     grid-gap: 4rem;
     padding: 2rem;
     background: var(--footer-background);
-    width: auto;
+    width:fit-content;
   }
   body .footer .content a, body .footer .content p {
     color: #F5F7FA;
